@@ -1,2 +1,2 @@
 # Programming-for-Data-Science
-my projects for the Data Scienc Programming Nanodegree with Udacity
+my projects for the Data Science Programming Nanodegree with Udacity
